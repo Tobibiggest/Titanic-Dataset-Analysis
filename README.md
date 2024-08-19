@@ -76,6 +76,8 @@ Below are some key visualizations from the analysis. These visualizations provid
 ![FacetGrid](https://github.com/user-attachments/assets/6fea6b6b-a630-46a2-9a47-777fa024f14f)
 ![DonutChart](https://github.com/user-attachments/assets/f3ba5e42-0dc9-4de8-a22f-6c9b1f0945f4)
 ![Univariate Vizz5](https://github.com/user-attachments/assets/3d06d0e4-ccd9-48c6-ab97-b0b082eb555d)
+![newplot](https://github.com/user-attachments/assets/6305aac0-28a3-47ec-8964-5df6cdedbddc)
+
 
 To view all the visualizations, check the `images` folder in the repository or run the notebook `titanic_analysis.ipynb`.
 
