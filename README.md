@@ -22,7 +22,6 @@ The analysis was conducted using the following steps:
 1. **Data Preprocessing**: Handling missing values, data reduction, and feature selection.
 2. **Exploratory Data Analysis (EDA)**: Visualizing distributions and relationships between variables.
 3. **Statistical Testing**: Applying tests like t-tests and chi-square tests to validate hypotheses.
-4. **Modeling** (Optional): If applicable, include any predictive modeling performed in the analysis.
 
 ## Installation
 
